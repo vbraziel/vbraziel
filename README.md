@@ -5,8 +5,7 @@ Allow me to quickly introduce myself:
 for computers when I was 13 years old. My first computer was my friend's IMB PC-5350 with
 MS-DOS and a small hard drive. It was here that I first learned about BASIC.
 
-Ciao,
-Vance
+Ciao
 
 <!---
 vbraziel/vbraziel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

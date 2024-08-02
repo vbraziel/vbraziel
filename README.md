@@ -4,11 +4,8 @@ Allow me to quickly introduce myself:
 - I’m interested in learning and growing in computing technology. I developed a passion
 for computers when I was 13 years old. My first computer was my friend's IMB PC-5350 with
 MS-DOS and a small hard drive. It was here that I first learned about BASIC.
-- I’m currently working my way through the Freecodecamp curriculum and my bachelor's at Western Governors University.
 
-- 📫 Contact $contact (Twitter) = @vbraziel82;
-
-Sincerely,
+Ciao,
 Vance
 
 <!---

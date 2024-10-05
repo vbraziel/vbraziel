@@ -1,11 +1,6 @@
-👋 Hi, I’m Vance Braziel,
-Allow me to quickly introduce myself:
-- Military veteran with 20 years of IT experience. Focusing on Software development.
-- I’m interested in learning and growing in computing technology. I developed a passion
-for computers when I was 13 years old. My first computer was my friend's IMB PC-5350 with
-MS-DOS and a small hard drive. It was here that I first learned about BASIC.
+Hello, I am Vance Braziel.
 
-Ciao
+I am a military veteran with 20 years of experience in IT, specializing in software development. My journey in computing technology began at the age of 13 with my friend’s IBM PC-5350 running MS-DOS, where I first learned BASIC. I am passionate about continuous learning and growth in the field of computing technology.
 
 <!---
 vbraziel/vbraziel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
